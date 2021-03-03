@@ -77,7 +77,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ##  Demonstração
 
-![](/React-App-Opera-2021-02-20-18-39-44.gif)
+![](/gif/React-App-Opera-2021-02-20-18-39-44.gif)
 
 
 
