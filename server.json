@@ -1,0 +1,39 @@
+{
+    "stock": [
+      {
+        "id": 1,
+        "amount": 10
+      },
+      {
+        "id": 4,
+        "amount": 5
+      },
+      {
+        "id": 22,
+        "amount": 3
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "title": "harry poter",
+        "status": true,
+        "image": "https://m.media-amazon.com/images/I/71Yw2VtLc8L._AC_UY327_FMwebp_QL65_.jpg",
+        "price":12.00
+      },
+      {
+        "id": 4,
+        "title": "As cronicas",
+        "status": true,
+        "image": "https://m.media-amazon.com/images/I/71yJLhQekBL._AC_UL480_FMwebp_QL65_.jpg",
+        "price":12.00
+      },
+      {
+        "id": 22,
+        "title": "Mil ao milhao",
+        "status": true,
+        "image": "https://m.media-amazon.com/images/I/81r5VTxaBiL._AC_UY327_FMwebp_QL65_.jpg",
+        "price":12.00
+      }
+    ]
+  }
