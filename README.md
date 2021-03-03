@@ -1,3 +1,33 @@
+
+# Livraria_Typescript_Redux
+## Descrição do Projeto
+
+<p align="center">Este projeto visa unir o redux com typescript</p
+ <h4 align="center"> 
+	✅  Livraria_Typescript_Redux 🚀 Concluido...  ✅
+ </h4>
+ <!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Tabela de conteúdos</summary>
+  <ol>
+    <li><a href="#Tecnologias">Tecnologias</a></li>  
+    <li><a href="#Getting-Started-with-Create-React-App">Começando</a></li>
+    <li><a href="#Demonstração">Demonstração</a></li>
+    <li><a href="#Contato">Contato</a></li>
+  </ol>
+</details>
+
+
+## Tecnologias
+O projeto foi feito com as seguintes tecnologias:
+
+React js	
+
+* Typescript 
+* componentização 
+* Rredux
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +74,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+##  Demonstração
+
+![](/React-App-Opera-2021-02-20-18-39-44.gif)
+
+
+
+<!-- CONTACT -->
+##  Contato
+Email: julysmartins54@gmail.com
+
+linkedin:www.linkedin.com/in/julys-martins-2558651a3
+
+Project Link: [https://github.com/julysNICK/Livraria_Typescript_Redux.git](React-App-Opera-2021-02-20-18-39-44.gif)
+
